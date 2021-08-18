@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-08-18T07:42:12.923Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="6FBxZBdIW15egWm9MiUF" version="14.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-08-18T07:42:38.141Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.198 Safari/537.36" etag="WPZNPWmBQ1Ipssipuf_e" version="14.9.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1038" dy="480" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -188,6 +188,9 @@
         </mxCell>
         <mxCell id="9_P1Rp-ajkPQTbV-v9LQ-21" value="" style="html=1;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;shadow=0;dashed=0;shape=mxgraph.rack.hpe_aruba.gateways_controllers.aruba_7024_mobility_controller_front;fontColor=#ffffff;fillColor=#99CCFF;strokeColor=#FF3333;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="170" y="1080" width="356" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="9_P1Rp-ajkPQTbV-v9LQ-23" value="" style="strokeColor=#666666;html=1;labelPosition=right;align=left;spacingLeft=15;shadow=0;dashed=0;outlineConnect=0;shape=mxgraph.rack.dell.poweredge_m420;fillColor=#99CCFF;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="720" y="760" width="70" height="357" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
